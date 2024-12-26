@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Code-Pulse-Blog\\API\\CodePulse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A24919AC-27BE-45FF-AAF9-AA389AC7828B}|CodePulse\\CodePulse.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\code-pulse-blog\\api\\codepulse\\codepulse\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A24919AC-27BE-45FF-AAF9-AA389AC7828B}|CodePulse\\CodePulse.csproj|solutionrelative:codepulse\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93FA8C0-391A-4E84-8DA7-E20199E1F3A6}|Services\\Services.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\code-pulse-blog\\api\\codepulse\\services\\implementation\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C93FA8C0-391A-4E84-8DA7-E20199E1F3A6}|Services\\Services.csproj|solutionrelative:services\\implementation\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB404FEE-1AE2-47E8-ACA2-F1CC55651D5C}|DataAccess\\DataAccess.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\code-pulse-blog\\api\\codepulse\\dataaccess\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB404FEE-1AE2-47E8-ACA2-F1CC55651D5C}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB404FEE-1AE2-47E8-ACA2-F1CC55651D5C}|DataAccess\\DataAccess.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\code-pulse-blog\\api\\codepulse\\dataaccess\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB404FEE-1AE2-47E8-ACA2-F1CC55651D5C}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025E020D-6C8E-41AF-8126-BC923573B28E}|DTOs\\DTOs.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\code-pulse-blog\\api\\codepulse\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025E020D-6C8E-41AF-8126-BC923573B28E}|DTOs\\DTOs.csproj|solutionrelative:dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93FA8C0-391A-4E84-8DA7-E20199E1F3A6}|Services\\Services.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\code-pulse-blog\\api\\codepulse\\services\\interface\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C93FA8C0-391A-4E84-8DA7-E20199E1F3A6}|Services\\Services.csproj|solutionrelative:services\\interface\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A24919AC-27BE-45FF-AAF9-AA389AC7828B}|CodePulse\\CodePulse.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\code-pulse-blog\\api\\codepulse\\codepulse\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A24919AC-27BE-45FF-AAF9-AA389AC7828B}|CodePulse\\CodePulse.csproj|solutionrelative:codepulse\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0C628F-42EA-4939-88A0-64B20B9D94DF}|Helpers\\Helpers.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\code-pulse-blog\\api\\codepulse\\helpers\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0C628F-42EA-4939-88A0-64B20B9D94DF}|Helpers\\Helpers.csproj|solutionrelative:helpers\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A24919AC-27BE-45FF-AAF9-AA389AC7828B}|CodePulse\\CodePulse.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\code-pulse-blog\\api\\codepulse\\codepulse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A24919AC-27BE-45FF-AAF9-AA389AC7828B}|CodePulse\\CodePulse.csproj|solutionrelative:codepulse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025E020D-6C8E-41AF-8126-BC923573B28E}|DTOs\\DTOs.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\code-pulse-blog\\api\\codepulse\\dtos\\updatecategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025E020D-6C8E-41AF-8126-BC923573B28E}|DTOs\\DTOs.csproj|solutionrelative:dtos\\updatecategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025E020D-6C8E-41AF-8126-BC923573B28E}|DTOs\\DTOs.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\code-pulse-blog\\api\\codepulse\\dtos\\createcategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025E020D-6C8E-41AF-8126-BC923573B28E}|DTOs\\DTOs.csproj|solutionrelative:dtos\\createcategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAE4638-2D7B-4204-A4F8-5C983B8B97B1}|Domain\\Domain.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\code-pulse-blog\\api\\codepulse\\domain\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAE4638-2D7B-4204-A4F8-5C983B8B97B1}|Domain\\Domain.csproj|solutionrelative:domain\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAE4638-2D7B-4204-A4F8-5C983B8B97B1}|Domain\\Domain.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\code-pulse-blog\\api\\codepulse\\domain\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAE4638-2D7B-4204-A4F8-5C983B8B97B1}|Domain\\Domain.csproj|solutionrelative:domain\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0C628F-42EA-4939-88A0-64B20B9D94DF}|Helpers\\Helpers.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\code-pulse-blog\\api\\codepulse\\helpers\\dependencyinjectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0C628F-42EA-4939-88A0-64B20B9D94DF}|Helpers\\Helpers.csproj|solutionrelative:helpers\\dependencyinjectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A24919AC-27BE-45FF-AAF9-AA389AC7828B}|CodePulse\\CodePulse.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\code-pulse-blog\\api\\codepulse\\codepulse\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A24919AC-27BE-45FF-AAF9-AA389AC7828B}|CodePulse\\CodePulse.csproj|solutionrelative:codepulse\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB404FEE-1AE2-47E8-ACA2-F1CC55651D5C}|DataAccess\\DataAccess.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\code-pulse-blog\\api\\codepulse\\dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB404FEE-1AE2-47E8-ACA2-F1CC55651D5C}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Code-Pulse-Blog\\API\\CodePulse\\CodePulse\\appsettings.json",
+              "RelativeDocumentMoniker": "CodePulse\\appsettings.json",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Code-Pulse-Blog\\API\\CodePulse\\CodePulse\\appsettings.json",
+              "RelativeToolTip": "CodePulse\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-25T21:05:44.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateCategoryRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Code-Pulse-Blog\\API\\CodePulse\\DTOs\\CreateCategoryRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateCategoryRequestDto.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Code-Pulse-Blog\\API\\CodePulse\\DTOs\\CreateCategoryRequestDto.cs",
+              "RelativeToolTip": "DTOs\\CreateCategoryRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T19:40:22.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateCategoryRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Code-Pulse-Blog\\API\\CodePulse\\DTOs\\UpdateCategoryRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UpdateCategoryRequestDto.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Code-Pulse-Blog\\API\\CodePulse\\DTOs\\UpdateCategoryRequestDto.cs",
+              "RelativeToolTip": "DTOs\\UpdateCategoryRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T19:40:16.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Code-Pulse-Blog\\API\\CodePulse\\DTOs\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Code-Pulse-Blog\\API\\CodePulse\\DTOs\\CategoryDto.cs",
+              "RelativeToolTip": "DTOs\\CategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:58:05.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Code-Pulse-Blog\\API\\CodePulse\\Domain\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Code-Pulse-Blog\\API\\CodePulse\\Domain\\Models\\Category.cs",
+              "RelativeToolTip": "Domain\\Models\\Category.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:44:52.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BlogPost.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Code-Pulse-Blog\\API\\CodePulse\\Domain\\Models\\BlogPost.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\BlogPost.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Code-Pulse-Blog\\API\\CodePulse\\Domain\\Models\\BlogPost.cs",
+              "RelativeToolTip": "Domain\\Models\\BlogPost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:37:30.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DependencyInjectionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Code-Pulse-Blog\\API\\CodePulse\\Helpers\\DependencyInjectionHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\DependencyInjectionHelper.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Code-Pulse-Blog\\API\\CodePulse\\Helpers\\DependencyInjectionHelper.cs",
+              "RelativeToolTip": "Helpers\\DependencyInjectionHelper.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAawBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T20:01:00.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatabaseSettings.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Code-Pulse-Blog\\API\\CodePulse\\Helpers\\DatabaseSettings.cs",
+              "RelativeDocumentMoniker": "Helpers\\DatabaseSettings.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Code-Pulse-Blog\\API\\CodePulse\\Helpers\\DatabaseSettings.cs",
+              "RelativeToolTip": "Helpers\\DatabaseSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T20:00:16.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Code-Pulse-Blog\\API\\CodePulse\\DataAccess\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Interface\\IRepository.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Code-Pulse-Blog\\API\\CodePulse\\DataAccess\\Interface\\IRepository.cs",
+              "RelativeToolTip": "DataAccess\\Interface\\IRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAwwA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T19:35:02.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Code-Pulse-Blog\\API\\CodePulse\\Services\\Implementation\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementation\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Code-Pulse-Blog\\API\\CodePulse\\Services\\Implementation\\CategoryService.cs",
+              "RelativeToolTip": "Services\\Implementation\\CategoryService.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAwDoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T19:33:52.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Code-Pulse-Blog\\API\\CodePulse\\CodePulse\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "CodePulse\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Code-Pulse-Blog\\API\\CodePulse\\CodePulse\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "CodePulse\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T19:28:27.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Code-Pulse-Blog\\API\\CodePulse\\Services\\Interface\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Code-Pulse-Blog\\API\\CodePulse\\Services\\Interface\\ICategoryService.cs",
+              "RelativeToolTip": "Services\\Interface\\ICategoryService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowBMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T19:26:41.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Code-Pulse-Blog\\API\\CodePulse\\CodePulse\\Program.cs",
+              "RelativeDocumentMoniker": "CodePulse\\Program.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Code-Pulse-Blog\\API\\CodePulse\\CodePulse\\Program.cs",
+              "RelativeToolTip": "CodePulse\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T19:12:50.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Code-Pulse-Blog\\API\\CodePulse\\DataAccess\\Implementation\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Implementation\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Code-Pulse-Blog\\API\\CodePulse\\DataAccess\\Implementation\\CategoryRepository.cs",
+              "RelativeToolTip": "DataAccess\\Implementation\\CategoryRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T18:53:32.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Code-Pulse-Blog\\API\\CodePulse\\DataAccess\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Code-Pulse-Blog\\API\\CodePulse\\DataAccess\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DataAccess\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADgvxIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T18:37:58.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Code-Pulse-Blog\\API\\CodePulse\\CodePulse\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "CodePulse\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Code-Pulse-Blog\\API\\CodePulse\\CodePulse\\WeatherForecast.cs",
+              "RelativeToolTip": "CodePulse\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:09:53.399Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
